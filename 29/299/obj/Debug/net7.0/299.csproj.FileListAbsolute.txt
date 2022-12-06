@@ -1,0 +1,15 @@
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\299.csproj.AssemblyReference.cache
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\299.GeneratedMSBuildEditorConfig.editorconfig
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\299.AssemblyInfoInputs.cache
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\299.AssemblyInfo.cs
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\299.csproj.CoreCompileInputs.cache
+C:\g_b_test\Homework4\29\299\bin\Debug\net7.0\299.exe
+C:\g_b_test\Homework4\29\299\bin\Debug\net7.0\299.deps.json
+C:\g_b_test\Homework4\29\299\bin\Debug\net7.0\299.runtimeconfig.json
+C:\g_b_test\Homework4\29\299\bin\Debug\net7.0\299.dll
+C:\g_b_test\Homework4\29\299\bin\Debug\net7.0\299.pdb
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\299.dll
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\refint\299.dll
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\299.pdb
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\299.genruntimeconfig.cache
+C:\g_b_test\Homework4\29\299\obj\Debug\net7.0\ref\299.dll

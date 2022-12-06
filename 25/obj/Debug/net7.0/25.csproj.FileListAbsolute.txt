@@ -1,0 +1,15 @@
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\25.csproj.AssemblyReference.cache
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\25.GeneratedMSBuildEditorConfig.editorconfig
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\25.AssemblyInfoInputs.cache
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\25.AssemblyInfo.cs
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\25.csproj.CoreCompileInputs.cache
+C:\g_b_test\Homework4\25\bin\Debug\net7.0\25.exe
+C:\g_b_test\Homework4\25\bin\Debug\net7.0\25.deps.json
+C:\g_b_test\Homework4\25\bin\Debug\net7.0\25.runtimeconfig.json
+C:\g_b_test\Homework4\25\bin\Debug\net7.0\25.dll
+C:\g_b_test\Homework4\25\bin\Debug\net7.0\25.pdb
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\25.dll
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\refint\25.dll
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\25.pdb
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\25.genruntimeconfig.cache
+C:\g_b_test\Homework4\25\obj\Debug\net7.0\ref\25.dll
